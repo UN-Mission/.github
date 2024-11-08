@@ -1,5 +1,3 @@
-### UN Mission GitHub Organization Introduction
-
 Welcome to the **UN Mission** GitHub Organization!
 
 This GitHub organization is dedicated to developing and supporting cutting-edge tools, technologies, and resources that serve various mission-critical projects. Our focus is on creating open-source solutions for teams, developers, and organizations to streamline workflows, improve mission outcomes, and drive innovation across a range of industries.
